@@ -1,7 +1,10 @@
 ![Hero](_header_/hero.png)
  
 # Repository containing various Terraform code
- 
+
+Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. It can be used to manage popular service providers as well as custom in-house solutions.
+
+An example use case for Terraform would be provisioning and managing a fleet of virtual machines in a public cloud such as AWS. Terraform can be used to define the desired state of the infrastructure, including the number and types of instances, disk volumes, network configurations, and so on. When the infrastructure is created or updated, Terraform will automatically make the necessary API calls to the cloud provider to create or modify resources as needed, while also keeping track of the current state of the infrastructure.
 Lots of Terraform recipes for doing things, aimed for copy and pasting into projects.
  
 - [AWS Examples](#aws-examples)
